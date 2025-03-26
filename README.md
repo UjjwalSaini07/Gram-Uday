@@ -10,7 +10,7 @@
 
 A **Google Solution Challenge Project'25** Organised By Google Developer Student Clubs Project by **Team The Googlerators From United Institute of Technology, PrayagRaj.**
 
-## Our Logo
+## Our Platform App Logo
   #### GRAM-UDAY (‘गांव से प्रगति की ओर’)
   <img src="https://github.com/user-attachments/assets/0014cedc-2397-44f2-bc29-60a9aadf372c" width="200"/>
 
@@ -259,20 +259,17 @@ flutter run
   </tr>
 </table>
 
-
-
 ## Key Features:
-- Visualize surplus food locations on an interactive map within a 30km radius.
-- Intuitive design for donors, recipients, volunteers, and NGOs.
-- Instant notifications for surplus food availability.
-- Connect volunteers with distribution opportunities.
-- Rigorous guidelines to verify donated food quality and safety.
-- Partnerships with authorities and organizations for effective operations.
-- Food Sharing, Donation, and Recycling options.
-- Verification of shared, donated, and recycled food.
-- Monitoring volunteer activities and resources.
-- Volunteers and NGOs contributing to community welfare.
-- Enlistment of nearby free water facilities on the interactive map for user convenience.
+- Addressing education challenges through reduced travel, enhanced teacher accessibility, and quality resource availability.
+- Intuitive design for User of Rural area with preferred Language Selection Option.
+- Empowering farmers with tools to transform agriculture into profitable ventures.
+- Connecting rural producers and artisans directly with urban buyers to boost local economies.
+- Real-time updates to help farmers adapt to climate variability and plan effectively.
+- Focused on literacy, healthcare skills, and simplified legal processes using AI.
+- Instant Notifications about government welfare schemes, subsidies, and job programs to enhance opportunities.
+- Linking gifted students with special-quota schools for skill and career development.
+- Partnering with NGOs, businesses, and governments for effective and sustainable community initiatives.
+- User feedback and analytics-driven optimizations ensure an evolving platform that meets community needs.
 
 ## Tech Stack
 **Technologies Implemented and Tools Utilized for the Project**

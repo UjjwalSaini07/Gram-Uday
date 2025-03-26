@@ -258,26 +258,47 @@ flutter run
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://i.postimg.cc/4xNpzx9W/Black-bezzel-2.png" width="120"/><br>
-      <b>Verify Free Food/Donate Food</b><br>
-      Admin ensures authenticity by verifying food listings before they appear on the app.
+      <img src="https://github.com/user-attachments/assets/f0b773b2-82be-44bd-a8ce-6b53d84b90a3" width="120"/><br>
+      <b>Doubt Solving Forum</b><br>
+      Three sections for doubt solving, choose appropriately.
     </td>
     <td align="center" width="25%">
-      <img src="https://i.postimg.cc/MHpr8Lwm/Black-bezzel-4.png" width="120"/><br>
-      <b>Recycle Screen</b><br>
-      Connect with biogas plants for responsible disposal of expired food items
+      <img src="https://github.com/user-attachments/assets/a5a83179-84ba-4e74-a610-50447864b55f" width="120"/><br>
+      <b>Uploading Screen</b><br>
+      Doubt-solving screen for uploading questions seamlessly.
     </td>
     <td align="center" width="25%">
-      <img src="https://i.postimg.cc/GmYv7jD7/Black-bezzel-6.png " width="120"/><br>
-      <b>Recycle Form Screen</b><br>
-      Individuals can share food for recycling by filling information about food types & location.
+      <img src="https://github.com/user-attachments/assets/036f5c7e-5d97-41e4-a291-a7b3ab93d4df" width="120"/><br>
+      <b>Question Typing Screen</b><br>
+      Doubt-solving screen for Typed Question.
     </td>
     <td align="center" width="25%">
-      <img src="https://i.postimg.cc/50r1T8dy/Black-bezzel-5.png" width="120"/><br>
-      <b>User Profile Screen</b></br>
-      User Profile where user can see it and edit it also as per this convenience
+      <img src="https://github.com/user-attachments/assets/a1b4b56e-4670-4bb2-893f-7aef5011c300" width="120"/><br>
+      <b>Ask to AI</b></br>
+      Doubt-solving screen for direct AI interaction.
     </td>
-    <td colspan="2"></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/92a65c7d-d5b6-4b7c-b098-af39852f66c8" width="120"/><br>
+      <b>Community Page for Doubt Solving</b></br>
+      Doubt-solving screen for direct AI interaction.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/2e60d9db-28fc-4023-863e-a99f2db8b42e" width="120"/><br>
+      <b>AI Teacher</b></br>
+      Section for interactive learning with an AI teacher.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/b48695b0-7f6b-4b85-a090-a2109785bcfa" width="120"/><br>
+      <b>E-Book for Learning</b></br>
+      Section for learning through e-books for better understanding.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/5ad3a398-49a1-414e-b609-5bb786d98f15" width="120"/><br>
+      <b>Special Quota Admission</b></br>
+      Section for admission notifications through special quotas.
+    </td>
   </tr>
 </table>
 

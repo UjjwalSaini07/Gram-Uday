@@ -302,8 +302,8 @@ flutter run
 
 
 # Hi, We are The Googlerators
-## 🤝 Contributors
-We are a team, register from United Institute of Technology but we are InterCollege Team from 3 Different State of our Country.
+
+We are a dynamic team registered under United Institute of Technology, proudly representing an Inter-College collaboration spanning 3 different states of our great nation. Together, we bring a unique blend of skills, perspectives, and innovation to achieve our shared goals and develop a solution for the Solution Challenge.
 
 | [Shanvi Mishra ](https://www.linkedin.com/in/shanvimishra/)| [Gayatri Singh](https://www.linkedin.com/in/gayatri-singh-5012b5301/)| [Ujjwal Saini](https://www.linkedin.com/in/ujjwalsaini07/)| [Harsh Tripathi](https://www.linkedin.com/in/alpharsh/)|
 | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |

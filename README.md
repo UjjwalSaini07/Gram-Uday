@@ -88,13 +88,17 @@ Join us in our mission to uplift rural communities, empowering them as vital pil
       <img src="https://github.com/user-attachments/assets/0258c037-8ca1-447c-b9fe-6f41c935e514" alt="Image 1" style="width: 100%;">
     </td>
     <td>
-      <img src="https://github.com/user-attachments/assets/6392462f-c177-4c5c-94d6-ad60cd633957" alt="Image 8" style="width: 100%;">
-    </td>
-    <td>
-      <img src="https://github.com/user-attachments/assets/d66eeb8f-f438-4a35-86c4-cd091f38123a" alt="Image 8" style="width: 100%;">
+      <img src="https://github.com/user-attachments/assets/6392462f-c177-4c5c-94d6-ad60cd633957" alt="Image 2" style="width: 100%;">
     </td>
   </tr>
-  
+  <tr>
+    <td>
+      <img src="https://github.com/user-attachments/assets/d66eeb8f-f438-4a35-86c4-cd091f38123a" alt="Image 3" style="width: 100%;">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/075da5e9-16e4-41ce-a8f0-e3dea6f82225" alt="Image 4" style="width: 100%;">
+    </td>
+  </tr>
 </table>
 
 <table>

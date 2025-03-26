@@ -84,12 +84,7 @@ Join us in our mission to uplift rural communities, empowering them as vital pil
 2. Run the downloaded file on your adnroid phone!
 3. **Test Credentials** :<br/>
    Email: *GramUdayUsertest@gmail.com*<br/>
-   Password: *GramUday@123*
-
-## GramUday Analytics Play Store:
- <a href="https://github.com/alpharsh/gram_uday">
-    <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="LinkedIn Badge"/>
-  </a> 	
+   Password: *GramUday@123* 	
 
 ## ⚠️ Initial Survey and Problem Statement Research
 
@@ -153,24 +148,46 @@ flutter run
 <table style="width: 100%;">
   <tr>
     <td align="center" width="25%">
-      <img src="https://spoonshare.vercel.app/images/21.png" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/2cc277fa-fea0-4363-852d-f37daa5eedc5" width="120"/><br>
       <b>Splash Screen</b><br>
-      Displays the Spoon Share logo upon app launch.
+      Displays the GramUday logo upon app launch.
     </td>
     <td align="center" width="25%">
-      <img src="https://spoonshare.vercel.app/images/22.png" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/53e26112-c895-4535-bcbd-6f4d046a9390" width="120"/><br>
+      <b>Welcome Screen</b><br>
+      Displays the Welcome Note with logo.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/4709cfd9-4bfa-41e1-bf36-10e63fc20902" width="120"/><br>
+      <b>Language Selection</b><br>
+      Screen that sets app language globally.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/ce0ec274-c265-4c5f-82b8-c8b711b5b75a" width="120"/><br>
       <b>Onboarding Screen</b><br>
-      Allows users to create account or log.
+      Allows users to create account or can  using Google credentials.
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/7514d80a-72f1-4554-8f08-7223b3bcd39e" width="120"/><br>
+      <b>Login Screen</b><br>
+       Screen offering account login or Google authentication.
     </td>
     <td align="center" width="25%">
-      <img src="https://spoonshare.vercel.app/images/29.png" width="120"/><br>
-      <b>Signup Screen</b><br>
-       Create an account manually or can  using Google credentials.
+      <img src="https://github.com/user-attachments/assets/14335b1b-a544-42e3-a5d5-484db89da604" width="120"/><br>
+      <b>OTP Verification</b><br>
+       Screen with OTP verification for authentication.
     </td>
     <td align="center" width="25%">
-      <img src="https://spoonshare.vercel.app/images/23.png" width="120"/><br>
-      <b>Signin Screen</b><br>
-       Log in via email or continue using Google credentials.
+      <img src="https://github.com/user-attachments/assets/bc652931-5a45-4036-81f1-a4377f88ba87" width="120"/><br>
+      <b>HomeScreen</b><br>
+       Home screen displaying key features and navigation.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/a06bad9a-4073-4816-80ed-093870c672a4" width="120"/><br>
+      <b>Profile Section</b><br>
+      Profile management section for editing user details.
     </td>
   </tr>
   <tr>

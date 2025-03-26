@@ -10,6 +10,10 @@
 
 A **Google Solution Challenge Project'25** Organised By Google Developer Student Clubs Project by **Team The Googlerators From United Institute of Technology, PrayagRaj.**
 
+## Our Logo
+  #### GRAM-UDAY (‘गांव से प्रगति की ओर’)
+  <img src="https://github.com/user-attachments/assets/0014cedc-2397-44f2-bc29-60a9aadf372c" width="200"/>
+
 ## Intro To GramUday Video
 
 Short but detailed introduction to GramUday. Click on the image to play and watch the video.

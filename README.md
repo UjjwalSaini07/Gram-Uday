@@ -299,7 +299,9 @@ flutter run
 - [Flutter Docs](https://docs.flutter.dev/)
 - [Figma](https://help.figma.com/hc/en-us)
 - [Firebase Docs](https://firebase.google.com/docs)
-
+- [Google Cloud Docs](https://cloud.google.com/docs)
+- [Google IDX Docs](https://developers.google.com/idx/guides)
+- [Google Map API Integration Docs](https://developers.google.com/maps/documentation)
 
 # Hi, We are The Googlerators
 
@@ -315,4 +317,4 @@ We are a dynamic team registered under United Institute of Technology, proudly r
 
 ## Happy Innovating 💯
 
-Made with love from [InnovsionSquad]() ❤️
+Made with love from [The Googlerators]() ❤️

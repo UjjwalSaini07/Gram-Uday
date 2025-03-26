@@ -214,46 +214,46 @@ flutter run
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://spoonshare.vercel.app/images/31.png" width="120"/><br>
-      <b>Donate Screen</b><br>
-      Enables individuals to donate food to NGO, share locations of free food availability, and share nearby water facilities.
+      <img src="https://github.com/user-attachments/assets/b44688fd-d477-476e-b326-135c53fb5529" width="120"/><br>
+      <b>Farmers Main Page</b><br>
+      Farmers section with 4 categories and daily AI advice.
     </td>
     <td align="center" width="25%">
-      <img src="https://i.postimg.cc/Zbfht5jS/freefood.png" width="120"/><br>
-      <b>Share Free Food Screen</b><br>
-      Individuals can share available free food locations like public feasts or nearby place by filling out a form.
+      <img src="https://github.com/user-attachments/assets/5b7b5173-8353-4a96-9830-4f94b6d95cb8" width="120"/><br>
+      <b>Marketplace Section Buyer</b><br>
+      Marketplace section tailored for buyers.
     </td>
     <td align="center" width="25%">
-      <img src="https://spoonshare.vercel.app/images/donation.png" width="120"/><br>
-      <b>Donate Food Screen</b><br>
-       Individuals to donate surplus food which they have from functions like public feasts, home by filling out a form.
+      <img src="https://github.com/user-attachments/assets/c830446c-0525-4220-b306-70c9828dccba" width="120"/><br>
+      <b>Marketplace Section Seller</b><br>
+       Marketplace section tailored for Sellers.
     </td>
     <td align="center" width="25%">
-      <img src="https://i.postimg.cc/xjhD8pWp/freewater.png" width="120"/><br>
-      <b>Share Water Facilities Screen</b><br>
-      Individuals can share free water facilities available at public places like bus stands by filling out a form.
+      <img src="https://github.com/user-attachments/assets/467cd611-c64b-42b3-a4dd-2956009938d0" width="120"/><br>
+      <b>Sell Commodity</b><br>
+      Section dedicated to selling commodity items.
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://i.postimg.cc/YC1JX1dp/join.png" width="120"/><br>
-      <b>Join Us Page</b><br>
-      Allows users to volunteer for community work or join as an NGO for collaborative efforts.
+      <img src="https://github.com/user-attachments/assets/6f286f45-6f31-407f-b315-9c53e71d3b1e" width="120"/><br>
+      <b>Climate Report</b><br>
+      Section for climate reports with graphs and alerts.
     </td>
     <td align="center" width="25%">
-      <img src="https://i.postimg.cc/431dw6Rt/Volunteer.png" width="120"/><br>
-      <b>Volunteer Form Screen</b><br>
-      Individuals can join the SpoonShare initiative by filling out a volunteer form.
+      <img src="https://github.com/user-attachments/assets/8a873139-4b31-4324-88c4-6284691195c5" width="120"/><br>
+      <b>Education Main Page</b><br>
+      Education section featuring 6 categories and inspirational quotes.
     </td>
     <td align="center" width="25%">
-      <img src="https://i.postimg.cc/vmF30DKs/NGO-FORM-PAGE.png" width="120"/><br>
-      <b>NGO Form Screen</b><br>
-      NGOs can join the SpoonShare initiative by filling out an NGO form.
+      <img src="https://github.com/user-attachments/assets/f9e2b3a8-71d6-41a3-9e6e-a94c6b7c5ab9" width="120"/><br>
+      <b>Find Scholarship</b><br>
+      Scholarship section for users to explore and apply.
     </td>
     <td align="center" width="25%">
-      <img src="https://i.postimg.cc/CL0GxNLT/Black-bezzel-3.png" width="120"/><br>
-      <b>Admin Dashboard Screen</b><br>
-      Admin can manage all operations, including verifying and managing NGOs.
+      <img src="https://github.com/user-attachments/assets/39102ff7-80ca-4e4b-842b-9a7e4c0920bb" width="120"/><br>
+      <b>AI Quiz Section</b><br>
+      AI quiz challenges to stimulate and expand minds.
     </td>
   </tr>
   <tr>

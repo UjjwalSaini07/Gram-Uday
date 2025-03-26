@@ -317,7 +317,7 @@ flutter run
 ## Tech Stack
 **Technologies Implemented and Tools Utilized for the Project**
 
-![Archtectural-diagram.png](https://i.postimg.cc/x1Xf3tBh/TECH-STACK.png)
+![GramUday_TechStack](https://github.com/user-attachments/assets/bfce7b51-1d15-45d9-bc1e-c63e39aec084)
 
 # GramUday Project Implementation Overview
 

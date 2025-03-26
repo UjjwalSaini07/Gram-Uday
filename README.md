@@ -82,15 +82,19 @@ Join us in our mission to uplift rural communities, empowering them as vital pil
 <hr>
 <table style="width: 100%;">
   <tr>
-    <p>➡ Overall, our research highlighted the urgency and importance of addressing food insecurity, and Spoon Share emerged as a solution-driven platform to make a meaningful impact on this critical issue. </p>
-    <p>➡ We also conducted a survey to get community response for some sought after features listed below.</p>
+    <p>➡ Overall, our research underscored the critical need to address rural poverty and empower communities through targeted interventions. This led to the development of our platform, designed to provide impactful solutions in key areas such as education, healthcare, farmer support, and marketplace opportunities.</p>
+    <p>➡ To further refine our approach, we conducted a survey with 500+ rural individuals from Delhi, Uttarakhand, and Uttar Pradesh to gather community insights on the most sought-after features and priorities.</p>
     <td>
-      <img src="https://i.postimg.cc/d1n0sT28/image.png" alt="Image 1" style="width: 100%;">
+      <img src="https://github.com/user-attachments/assets/0258c037-8ca1-447c-b9fe-6f41c935e514" alt="Image 1" style="width: 100%;">
     </td>
     <td>
-      <img src="https://i.postimg.cc/vHxGjKN7/image.png" alt="Image 8" style="width: 100%;">
+      <img src="https://github.com/user-attachments/assets/6392462f-c177-4c5c-94d6-ad60cd633957" alt="Image 8" style="width: 100%;">
+    </td>
+    <td>
+      <img src="https://github.com/user-attachments/assets/d66eeb8f-f438-4a35-86c4-cd091f38123a" alt="Image 8" style="width: 100%;">
     </td>
   </tr>
+  
 </table>
 
 <table>

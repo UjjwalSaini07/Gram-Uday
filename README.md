@@ -311,7 +311,7 @@ We are a team, register from United Institute of Technology but we are InterColl
 | Project Manager| Flutter Developer| Firebase/PR | UI/UX Designer                      
 | UIT, Prayagraj| GEU, Uttarakhand| GGSIPU, Delhi |  UIT, Prayagraj                     
 
-![spoonshare](https://github.com/shuence/SpoonShare/assets/65482186/74dc488c-d378-47de-a384-a9bdac6142cc)
+![GramUdaySquad](https://github.com/user-attachments/assets/b9357059-809d-4ab1-9a1b-e89720a89f01)
 
 ## Happy Innovating 💯
 

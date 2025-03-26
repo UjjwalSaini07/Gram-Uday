@@ -367,7 +367,7 @@ We are a dynamic team registered under United Institute of Technology, proudly r
 | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <img src="https://github.com/user-attachments/assets/7949bd1f-269b-4b43-bccb-d256d5942a05" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/40c874a5-de40-4beb-bcf3-65356d56da1d" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/95c85fcc-6c8d-40a6-b2e2-41b84e3609a4" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/963526ba-9f0c-4575-bde2-449b02df2c56" style="width: 180px; height: 180px; object-fit: cover;"> |
 | Project Manager| Flutter Developer| Firebase/PR | UI/UX Designer                      
-| UIT, Prayagraj| GEU, Uttarakhand| GGSIPU, Delhi |  UIT, Prayagraj                     
+| UCER, Prayagraj| GEU, Uttarakhand| GGSIPU, Delhi |  UCER, Prayagraj                     
 
 ![GramUdaySquad](https://github.com/user-attachments/assets/b9357059-809d-4ab1-9a1b-e89720a89f01)
 

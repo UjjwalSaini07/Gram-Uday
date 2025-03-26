@@ -67,17 +67,17 @@ Join us in our mission to uplift rural communities, empowering them as vital pil
 <table style="width: 100%;">
   <tr>
     <td>
-      <img src="https://i.postimg.cc/638rnwM4/image.png" alt="Image 1" style="width: 80%; text-align:center">
+      <img src="https://github.com/user-attachments/assets/a1b7b4ec-a1ac-422b-9dba-07e45c973fa0" alt="Image 1" style="width: 80%; text-align:center">
       <p> </p>
-      <p>📌 In our initial survey and deep problem analysis, we uncovered staggering global statistics: 2.4 billion people face food insecurity, with projections of 600 million more by 2030.  </p>
-       <p>📝 Our findings fueled the creation of Spoon Share, a platform connecting surplus food donors with those in need, combating hunger and food waste on a global scale..</p>
+      <p>📌 During our initial survey and in-depth problem analysis, we uncovered critical challenges faced by rural communities. Among the insights: over 600 million people globally still live in extreme poverty, with rural areas disproportionately affected. Limited access to education, healthcare, and sustainable livelihoods perpetuates this cycle of poverty.</p>
+       <p>📝 These findings inspired the creation of our initiative—a comprehensive platform addressing key issues like education, farmer support, healthcare access, and market opportunities for artisans. By leveraging community participation and partnerships, we aim to empower rural communities and break the cycle of poverty sustainably.</p>
     </td>
   </tr>
   </table>
 
 ## 📊 Public Opinion
 
-#### 1500+ students from 4️⃣colleges and peoples surveyed across the city. 
+#### 500+ rural individuals from three different states (Delhi, Uttarakhand, and Uttar Pradesh) were surveyed to understand the challenges they face. 
 
 <hr>
 <table style="width: 100%;">

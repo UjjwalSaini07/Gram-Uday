@@ -117,22 +117,25 @@ Join us in our mission to uplift rural communities, empowering them as vital pil
       <br>
       <b>Realtime Feedback</b>
     </td>
-    
   </tr>
 </table>
 
 ## Setup
 
-To Setup this project run
-
+Follow these steps to set up the project:
+1. Clone the repository:
 ```bash
-git clone https://github.com/shuence/SpoonShare
+https://github.com/alpharsh/gram_uday.git
+```
+2. Navigate to the project directory:
+```bash
 cd SpoonShare
+```
+3. Install dependencies and run the project:
+```bash
 flutter pub get
 flutter run
 ```
-
-
 
 ## 🛳 User Guide
 
@@ -274,25 +277,31 @@ flutter run
 
 # SpoonShare Project Implementation Overview
 
-1. **Technology Stack**: Utilizing Flutter, Firebase, and Google Maps API for efficient cross-platform app development with real-time updates and user-friendly navigation.
+1. **Technology Stack**: Utilizing Flutter, Firebase, Google Cloud Platform, Vertex AI, Gemini API, CLoud SQL, CLoud Function, Google Maps API for efficient cross-platform app development with real-time updates and user-friendly navigation.
 
-2. **User Interface (UI) Design**: Collaborative design using Figma to create a user-friendly interface featuring prominent "Donate Food" buttons.
+2. **User Interface (UI) Design**: Collaborative design using Figma to create a user-friendly interface to make overall Platform as User Centric.
 
-3. **Educational Resources**: Providing educational content on food waste in collaboration with NGOs.
+3. **Educational Resources**: Digital platforms reduce travel burdens and enhance teacher and resource accessibility in rural areas.
 
 4. **Volunteer Matching**: Connecting volunteers with NGOs and events through a dedicated feature.
+   
+5. **Marketplace Integration**: Connecting rural producers and artisans directly with urban buyers to foster economic growth.
 
-5. **Quality and Safety Standards**: Implementing guidelines for donor verification to ensure quality and safety.
+6. **Climate Resilience Tools**: Weather notification systems help farmers adapt to unpredictable conditions.
 
-6. **Feedback and Ratings System**: Transparent system encouraging user participation and feedback.
+7. **Community Microlearning**: AI-driven modules promote literacy, healthcare skills, and simplified legal awareness.
 
-7. **Collaboration with Local Governments**: Partnering with local governments to ensure legal compliance and community support.
+8. **Collaboration with Local Governments**: Partnering with local governments to ensure legal compliance and community support.
 
-8. **Marketing and Awareness**: Leveraging social media, influencers, and organizational collaborations for effective promotional campaigns.
+9. **Marketing and Awareness**: Leveraging social media, influencers, and organizational collaborations for effective promotional campaigns.
 
-9. **Post-Launch Optimization**: Analyzing user data to drive continuous improvements and enhancements based on community feedback.
+10. **Awareness Campaigns**: Informing users about welfare schemes, subsidies, and job programs through targeted outreach.
 
-10. **Community Building and Partnerships**: Engaging users through community initiatives and partnerships with NGOs, local businesses, and institutions for expanded impact.
+11. **Student Support**: Linking talented individuals with special-quota schools to unlock their potential and ensure success.
+    
+11. **Post-Launch Optimization**: Continuously improving based on user feedback and data-driven insights.
+    
+11. **Collaborative Partnerships**: Engaging local governments, NGOs, and businesses to amplify community impact and sustainability.
 
 ## Resources
 

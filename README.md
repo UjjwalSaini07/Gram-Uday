@@ -133,26 +133,7 @@ Join us in our mission to uplift rural communities, empowering them as vital pil
   </tr>
 </table>
 
-<table>
-  <tr>
-    <td align="center">
-      <a href="" target="_blank">
-        <img src="" alt="Image 1" width="250">
-      </a>
-      <br>
-      <b>GramUday FeedBacks</b>
-    </td>
-    <td align="center">
-      <a href="" target="_blank">
-        <img src="" alt="Image 2" width="250">
-      </a>
-      <br>
-      <b>Realtime Feedback</b>
-    </td>
-  </tr>
-</table>
-
-## Setup
+## Project Setup
 
 Follow these steps to set up the project:
 1. Clone the repository:
@@ -331,6 +312,11 @@ flutter run
 11. **Post-Launch Optimization**: Continuously improving based on user feedback and data-driven insights.
     
 11. **Collaborative Partnerships**: Engaging local governments, NGOs, and businesses to amplify community impact and sustainability.
+
+# Gram-Uday Data Flow
+![image](https://github.com/user-attachments/assets/68a272a7-a083-47ee-83ac-e38bc510cf05)
+![image](https://github.com/user-attachments/assets/08020601-f324-476a-b5d0-cf18da8533c0)
+
 
 ## Resources
 

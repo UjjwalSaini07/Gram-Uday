@@ -31,7 +31,6 @@ GramUday is an Android app that break the poverty cycle of the rural communities
   <img src="https://github.com/user-attachments/assets/e1ed47ca-0a99-4493-a735-b35976510db7" width="200"/>
 </p>
 
-
 ## Our Project Github Stats
 
 <div align = "center">
@@ -58,7 +57,6 @@ GramUday is an Android app that break the poverty cycle of the rural communities
       </tbody>
   </table>
 </div>
-
 
 ## Latest Version - v1.0.0
 <table>
@@ -92,7 +90,6 @@ Join us in our mission to uplift rural communities, empowering them as vital pil
  <a href="https://github.com/alpharsh/gram_uday">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white" alt="LinkedIn Badge"/>
   </a> 	
-
 
 ## ⚠️ Initial Survey and Problem Statement Research
 
@@ -151,7 +148,6 @@ flutter run
 ```
 
 ## 🛳 User Guide
-
 ### Walkthrough
 
 <table style="width: 100%;">
@@ -314,9 +310,7 @@ flutter run
 11. **Collaborative Partnerships**: Engaging local governments, NGOs, and businesses to amplify community impact and sustainability.
 
 # Gram-Uday Data Flow
-![image](https://github.com/user-attachments/assets/68a272a7-a083-47ee-83ac-e38bc510cf05)
 ![image](https://github.com/user-attachments/assets/08020601-f324-476a-b5d0-cf18da8533c0)
-
 
 ## Resources
 

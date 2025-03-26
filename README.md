@@ -301,14 +301,15 @@ flutter run
 - [Firebase Docs](https://firebase.google.com/docs)
 
 
-# Hi, We are InnovisionSquad
+# Hi, We are The Googlerators
 ## 🤝 Contributors
-We are a team from Deogiri Institute of Engineering And Management Studies Chh. Sambhajinagar and Core Team Members of [GDSC DIEMS](https://gdsc.community.dev/deogiri-institute-of-engineering-and-management-studies-aurangabad/)
+We are a team, register from United Institute of Technology but we are InterCollege Team from 3 Different State of our Country.
 
-| [Sanika Chavan ](https://linkedin.com/in/sanika-chavan-52457b236/)| [Shubham Pitekar](https://linkedin.com/in/shuence)| [Krishna Aute](https://www.linkedin.com/in/krishna-aute-195b2b135/)| [Mohammed Rehan](https://www.linkedin.com/in/mdrehan15/)|
+| [Shanvi Mishra ](https://www.linkedin.com/in/shanvimishra/)| [Gayatri Singh](https://www.linkedin.com/in/gayatri-singh-5012b5301/)| [Ujjwal Saini](https://www.linkedin.com/in/ujjwalsaini07/)| [Harsh Tripathi](https://www.linkedin.com/in/alpharsh/)|
 | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| <img src="https://avatars.githubusercontent.com/u/116996971?v=4"> | <img src="https://avatars.githubusercontent.com/u/65482186?v=4"> | <img src="https://i.postimg.cc/zvYf8bGj/image.jpg"> | <img src="https://i.postimg.cc/bvPLDLFc/image.jpg"> |
+| <img src="https://github.com/user-attachments/assets/386b0416-95cb-4227-bc09-e0da6e2945da" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/3d531874-cb59-4675-a052-fd8e0b9e654f" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/95c85fcc-6c8d-40a6-b2e2-41b84e3609a4" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/963526ba-9f0c-4575-bde2-449b02df2c56" style="width: 180px; height: 180px; object-fit: cover;"> |
 | Project Manager| Flutter Developer| Firebase/PR | UI/UX Designer                      
+| UIT, Prayagraj| GEU, Uttarakhand| GGSIPU, Delhi |  UIT, Prayagraj                     
 
 ![spoonshare](https://github.com/shuence/SpoonShare/assets/65482186/74dc488c-d378-47de-a384-a9bdac6142cc)
 

@@ -165,7 +165,7 @@ flutter run
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/ce0ec274-c265-4c5f-82b8-c8b711b5b75a" width="120"/><br>
       <b>Onboarding Screen</b><br>
-      Allows users to create account or can  using Google credentials.
+      Account creation or login with Google credentials.
     </td>
   </tr>
   <tr>
@@ -192,24 +192,24 @@ flutter run
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://i.postimg.cc/L55s6sCW/forgot.png" width="120"/><br>
-      <b>Forgot Password Screen</b><br>
-      User can request a forgot password link in case they forgot their password.
+      <img src="https://github.com/user-attachments/assets/a22e961b-bf45-4f97-bc99-bcc7e54b0111" width="120"/><br>
+      <b>Profile Updation</b><br>
+      Section for updating and managing user information.
     </td>
     <td align="center" width="25%">
-      <img src="https://spoonshare.vercel.app/images/24.png" width="120"/><br>
-      <b>Home Screen</b><br>
-      Lists near by locations within range of 30km radius where free food is available        to people.
+      <img src="https://github.com/user-attachments/assets/210bc4e4-152e-4919-89d8-1a35e3cc1f2d" width="120"/><br>
+      <b>Healthcare Page</b><br>
+      Healthcare section displaying available doctors.
     </td>
     <td align="center" width="25%">
-      <img src="https://i.postimg.cc/4nkk2wt1/fooddetails.png" width="120"/><br>
-      <b>Food Details Card</b><br>
-      Provides detailed information about proper timings, food types, and map for location.
+      <img src="https://github.com/user-attachments/assets/a03adb08-365b-4901-8f44-f1f41e90db8a" width="120"/><br>
+      <b>Nearby Hospitals</b><br>
+      Map displaying nearby hospitals for user convenience.
     </td>
     <td align="center" width="25%">
-      <img src="https://spoonshare.vercel.app/images/Black%20bezzel%20(5).png" width="120"/><br>
-      <b>Interactive Map </b><br>
-      Displays various locations with free food availability, marked distinctly by our unique icon.
+      <img src="https://github.com/user-attachments/assets/6062a7d0-0b38-4802-ac5d-2d7c541a7415" width="120"/><br>
+      <b>Ai Consultation</b><br>
+      AI-powered health guidance for personalized advice.
     </td>
   </tr>
   <tr>

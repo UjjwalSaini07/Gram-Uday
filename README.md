@@ -271,11 +271,11 @@ flutter run
 - Enlistment of nearby free water facilities on the interactive map for user convenience.
 
 ## Tech Stack
-**Technologies involved/used:**
+**Technologies Implemented and Tools Utilized for the Project**
 
 ![Archtectural-diagram.png](https://i.postimg.cc/x1Xf3tBh/TECH-STACK.png)
 
-# SpoonShare Project Implementation Overview
+# GramUday Project Implementation Overview
 
 1. **Technology Stack**: Utilizing Flutter, Firebase, Google Cloud Platform, Vertex AI, Gemini API, CLoud SQL, CLoud Function, Google Maps API for efficient cross-platform app development with real-time updates and user-friendly navigation.
 

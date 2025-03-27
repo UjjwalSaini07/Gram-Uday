@@ -317,7 +317,7 @@ flutter run
 ## Tech Stack
 **Technologies Implemented and Tools Utilized for the Project**
 
-![GramUday_TechStack](https://github.com/user-attachments/assets/bfce7b51-1d15-45d9-bc1e-c63e39aec084)
+![GramUday_TechStack](https://github.com/user-attachments/assets/319fe95b-184a-496a-82c8-364f8aaf628b)
 
 # GramUday Project Implementation Overview
 
@@ -365,7 +365,7 @@ We are a dynamic team registered under United Institute of Technology, proudly r
 
 | [Shanvi Mishra ](https://www.linkedin.com/in/shanvimishra/)| [Gayatri Singh](https://www.linkedin.com/in/gayatri-singh-5012b5301/)| [Ujjwal Saini](https://www.linkedin.com/in/ujjwalsaini07/)| [Harsh Tripathi](https://www.linkedin.com/in/alpharsh/)|
 | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
-| <img src="https://github.com/user-attachments/assets/7949bd1f-269b-4b43-bccb-d256d5942a05" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/40c874a5-de40-4beb-bcf3-65356d56da1d" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/95c85fcc-6c8d-40a6-b2e2-41b84e3609a4" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/963526ba-9f0c-4575-bde2-449b02df2c56" style="width: 180px; height: 180px; object-fit: cover;"> |
+| <img src="https://github.com/user-attachments/assets/588587da-44f2-450b-ba61-1a364f29d734" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/40c874a5-de40-4beb-bcf3-65356d56da1d" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/95c85fcc-6c8d-40a6-b2e2-41b84e3609a4" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/963526ba-9f0c-4575-bde2-449b02df2c56" style="width: 180px; height: 180px; object-fit: cover;"> |
 | Project Manager| Flutter Developer| Firebase/PR | UI/UX Designer                      
 | UCER, Prayagraj| GEHU, Uttarakhand| GGSIPU, Delhi |  UCER, Prayagraj                     
 

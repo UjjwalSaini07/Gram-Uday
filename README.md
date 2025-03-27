@@ -366,7 +366,7 @@ We are a dynamic team registered under United Institute of Technology, proudly r
 | [Shanvi Mishra ](https://www.linkedin.com/in/shanvimishra/)| [Gayatri Singh](https://www.linkedin.com/in/gayatri-singh-5012b5301/)| [Ujjwal Saini](https://www.linkedin.com/in/ujjwalsaini07/)| [Harsh Tripathi](https://www.linkedin.com/in/alpharsh/)|
 | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <img src="https://github.com/user-attachments/assets/588587da-44f2-450b-ba61-1a364f29d734" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/40c874a5-de40-4beb-bcf3-65356d56da1d" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/95c85fcc-6c8d-40a6-b2e2-41b84e3609a4" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/963526ba-9f0c-4575-bde2-449b02df2c56" style="width: 180px; height: 180px; object-fit: cover;"> |
-| Project Manager| Flutter Developer| Firebase/PR | UI/UX Designer                      
+| UI/UX Designer | Developer | Developer | Developer                  
 | UCER, Prayagraj| GEHU, Uttarakhand| GGSIPU, Delhi |  UCER, Prayagraj                     
 
 ![GramUdaySquad](https://github.com/user-attachments/assets/b9357059-809d-4ab1-9a1b-e89720a89f01)

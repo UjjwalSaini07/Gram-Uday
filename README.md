@@ -347,6 +347,9 @@ flutter run
     
 11. **Collaborative Partnerships**: Engaging local governments, NGOs, and businesses to amplify community impact and sustainability.
 
+# Gram-Uday App Architecture
+![GramUday-Architecture](https://github.com/user-attachments/assets/60b74536-cd78-4b2b-89a8-3d7136187b1f)
+
 # Gram-Uday Data Flow
 ![image](https://github.com/user-attachments/assets/08020601-f324-476a-b5d0-cf18da8533c0)
 

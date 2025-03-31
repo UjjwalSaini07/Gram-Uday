@@ -180,7 +180,7 @@ flutter run
        Screen with OTP verification for authentication.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/bc652931-5a45-4036-81f1-a4377f88ba87" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/69472c9e-f6c4-422c-b5fb-5f96c17dd7be" width="120"/><br>
       <b>HomeScreen</b><br>
        Home screen displaying key features and navigation.
     </td>
@@ -300,6 +300,18 @@ flutter run
       Section for admission notifications through special quotas.
     </td>
   </tr>
+<!--   <tr>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/06af42c3-d51a-41e1-9dd6-7a288c01e9cc" width="120"/><br>
+      <b>E-Book for Learning</b></br>
+      Section for Homescreen.
+    </td>
+    <td align="center" width="25%">
+      <img src="https://github.com/user-attachments/assets/8f4bfc47-c9ca-4df9-ae94-0dd53657c645" width="120"/><br>
+      <b>Climate Report2</b></br>
+      Section for climate reports with graphs and alerts.
+    </td>
+  </tr> -->
 </table>
 
 ## Key Features:

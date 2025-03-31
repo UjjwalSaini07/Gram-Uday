@@ -1,6 +1,6 @@
 # Gram Uday 🌾
 
-## 💡 Introduction
+## 💡 Introduction 
 
 **Problem Statement**: Empowering Rural Communities to Break the Cycle of Poverty
 

@@ -58,7 +58,7 @@ GramUday is an Android app that break the poverty cycle of the rural communities
   </table>
 </div>
 
-## Latest Version - v1.0.0
+## Latest Version - v1.0.0 (Temporarily Inactive)
 <table>
   <tr>
     <td>
@@ -385,7 +385,7 @@ We are a dynamic team registered under United Institute of Technology, proudly r
 | ----------------------------------------------------------------- | ---------------------------------------------------------------- | ----------------------------------------------------------------- | ----------------------------------------------------------------- |
 | <img src="https://github.com/user-attachments/assets/588587da-44f2-450b-ba61-1a364f29d734" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/26040988-8223-4209-9677-1e084c63933c" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/cd6d1f36-d74a-45c4-a4ef-8aba878f7a5a" style="width: 180px; height: 180px; object-fit: cover;"> | <img src="https://github.com/user-attachments/assets/963526ba-9f0c-4575-bde2-449b02df2c56" style="width: 180px; height: 180px; object-fit: cover;"> |
 | UI/UX Designer | Developer | Developer | Developer                  
-| UCER, Prayagraj| GEHU, Uttarakhand| GGSIPU, Delhi |  UCER, Prayagraj                     
+| UCER, Prayagraj | GEHU, Bhimtal | GGSIPU, Delhi |  UCER, Prayagraj                     
 
 ![GramUdaySquad](https://github.com/user-attachments/assets/b9357059-809d-4ab1-9a1b-e89720a89f01)
 

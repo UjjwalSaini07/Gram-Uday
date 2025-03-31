@@ -207,7 +207,7 @@ flutter run
       Map displaying nearby hospitals for user convenience.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/6062a7d0-0b38-4802-ac5d-2d7c541a7415" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/5d14d2a7-67f1-4397-b3bb-314fdecd0adc" width="120"/><br>
       <b>Ai Consultation</b><br>
       AI-powered health guidance for personalized advice.
     </td>
@@ -220,12 +220,12 @@ flutter run
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/5b7b5173-8353-4a96-9830-4f94b6d95cb8" width="120"/><br>
-      <b>Marketplace Section Buyer</b><br>
+      <b>Buyer Marketplace</b><br>
       Marketplace section tailored for buyers.
     </td>
     <td align="center" width="25%">
       <img src="https://github.com/user-attachments/assets/c830446c-0525-4220-b306-70c9828dccba" width="120"/><br>
-      <b>Marketplace Section Seller</b><br>
+      <b>Seller Marketplace</b><br>
        Marketplace section tailored for Sellers.
     </td>
     <td align="center" width="25%">
@@ -268,12 +268,12 @@ flutter run
       Doubt-solving screen for uploading questions seamlessly.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/036f5c7e-5d97-41e4-a291-a7b3ab93d4df" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/9d362eab-46e7-4f13-a5bf-7cb4d8b4948c" width="120"/><br>
       <b>Question Typing Screen</b><br>
       Doubt-solving screen for Typed Question.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/a1b4b56e-4670-4bb2-893f-7aef5011c300" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/2627e14e-32ee-4113-8e34-922a101e195e" width="120"/><br>
       <b>Ask to AI</b></br>
       Doubt-solving screen for direct AI interaction.
     </td>
@@ -285,17 +285,17 @@ flutter run
       Doubt-solving screen for direct AI interaction.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/2e60d9db-28fc-4023-863e-a99f2db8b42e" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/a0a09327-19a2-4532-bd05-a843916d595d" width="120"/><br>
       <b>AI Teacher</b></br>
       Section for interactive learning with an AI teacher.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/b48695b0-7f6b-4b85-a090-a2109785bcfa" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/2054a632-c077-4063-8f2c-bb8ad58f247d" width="120"/><br>
       <b>E-Book for Learning</b></br>
       Section for learning through e-books for better understanding.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/5ad3a398-49a1-414e-b609-5bb786d98f15" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/85a916b6-0b5d-4b4d-afb9-a9136e31b865" width="120"/><br>
       <b>Special Quota Admission</b></br>
       Section for admission notifications through special quotas.
     </td>

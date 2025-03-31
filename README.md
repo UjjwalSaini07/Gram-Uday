@@ -350,6 +350,9 @@ flutter run
 # Gram-Uday App Architecture
 ![GramUday-Architecture](https://github.com/user-attachments/assets/60b74536-cd78-4b2b-89a8-3d7136187b1f)
 
+# Gram-Uday Use-Case Diagram
+![GramUday_UseCase](https://github.com/user-attachments/assets/0a83e1ce-12fc-454c-8a35-e461403612ae)
+
 # Gram-Uday Data Flow
 ![image](https://github.com/user-attachments/assets/08020601-f324-476a-b5d0-cf18da8533c0)
 

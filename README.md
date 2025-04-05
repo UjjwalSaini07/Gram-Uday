@@ -180,7 +180,7 @@ flutter run
        Screen with OTP verification for authentication.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/69472c9e-f6c4-422c-b5fb-5f96c17dd7be" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/c50c7c3d-2ea6-4e56-9509-1ad7f03deff5" width="120"/><br>
       <b>HomeScreen</b><br>
        Home screen displaying key features and navigation.
     </td>
@@ -192,22 +192,22 @@ flutter run
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/a22e961b-bf45-4f97-bc99-bcc7e54b0111" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/8c153047-b240-4c5b-9135-4bc0f3a73500" width="120"/><br>
       <b>Profile Updation</b><br>
       Section for updating and managing user information.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/210bc4e4-152e-4919-89d8-1a35e3cc1f2d" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/9b9a92f9-9f15-4a06-a72a-cfa8991893b6" width="120"/><br>
       <b>Healthcare Page</b><br>
       Healthcare section displaying available doctors.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/a03adb08-365b-4901-8f44-f1f41e90db8a" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/a71e88dd-165a-4dff-95e1-bce8414c4937" width="120"/><br>
       <b>Nearby Hospitals</b><br>
       Map displaying nearby hospitals for user convenience.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/5d14d2a7-67f1-4397-b3bb-314fdecd0adc" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/8d5d0212-feea-41d2-9aa8-370228fc90e5" width="120"/><br>
       <b>Ai Consultation</b><br>
       AI-powered health guidance for personalized advice.
     </td>
@@ -224,78 +224,78 @@ flutter run
       Marketplace section tailored for buyers.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/c830446c-0525-4220-b306-70c9828dccba" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/5d285ac1-f8da-45af-b82e-85aec1d093e6" width="120"/><br>
       <b>Seller Marketplace</b><br>
        Marketplace section tailored for Sellers.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/467cd611-c64b-42b3-a4dd-2956009938d0" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/2617d986-a839-4ffb-9588-73240281dfa4" width="120"/><br>
       <b>Sell Commodity</b><br>
       Section dedicated to selling commodity items.
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/6f286f45-6f31-407f-b315-9c53e71d3b1e" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/1fa024f1-e665-4c4b-adec-c3fbd89bb50c" width="120"/><br>
       <b>Climate Report</b><br>
       Section for climate reports with graphs and alerts.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/8a873139-4b31-4324-88c4-6284691195c5" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/ef23ad0b-499b-4d29-bab2-60eb2ae9dc87" width="120"/><br>
       <b>Education Main Page</b><br>
       Education section featuring 6 categories and inspirational quotes.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/f9e2b3a8-71d6-41a3-9e6e-a94c6b7c5ab9" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/a9a216b5-4d90-491a-a46b-d93b8d2b1819" width="120"/><br>
       <b>Find Scholarship</b><br>
       Scholarship section for users to explore and apply.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/39102ff7-80ca-4e4b-842b-9a7e4c0920bb" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/9fc9a13b-d263-448b-be55-26609f74a811" width="120"/><br>
       <b>AI Quiz Section</b><br>
       AI quiz challenges to stimulate and expand minds.
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/f0b773b2-82be-44bd-a8ce-6b53d84b90a3" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/dd760f31-d2ae-4e9f-95d8-2585f82339d5" width="120"/><br>
       <b>Doubt Solving Forum</b><br>
       Three sections for doubt solving, choose appropriately.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/a5a83179-84ba-4e74-a610-50447864b55f" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/08a7790f-a8cd-4455-ad72-95cadd6a2042" width="120"/><br>
       <b>Uploading Screen</b><br>
       Doubt-solving screen for uploading questions seamlessly.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/9d362eab-46e7-4f13-a5bf-7cb4d8b4948c" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/205e55bf-1237-4b7e-926b-a716e757f71d" width="120"/><br>
       <b>Question Typing Screen</b><br>
       Doubt-solving screen for Typed Question.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/2627e14e-32ee-4113-8e34-922a101e195e" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/948185f2-25b5-45e5-b3d5-5c2cdae1b035" width="120"/><br>
       <b>Ask to AI</b></br>
       Doubt-solving screen for direct AI interaction.
     </td>
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/92a65c7d-d5b6-4b7c-b098-af39852f66c8" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/4838f47a-07ea-4fc2-a490-648d0f6cb50c" width="120"/><br>
       <b>Community Page for Doubt Solving</b></br>
       Doubt-solving screen for direct AI interaction.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/a0a09327-19a2-4532-bd05-a843916d595d" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/a1f64de9-ab57-4560-9fc8-b6ac7c879978" width="120"/><br>
       <b>AI Teacher</b></br>
       Section for interactive learning with an AI teacher.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/2054a632-c077-4063-8f2c-bb8ad58f247d" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/b5a3948d-c7d9-46b0-9242-5318fa4502fd" width="120"/><br>
       <b>E-Book for Learning</b></br>
       Section for learning through e-books for better understanding.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/85a916b6-0b5d-4b4d-afb9-a9136e31b865" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/7bbb4426-c569-432e-a647-dc86670601db" width="120"/><br>
       <b>Special Quota Admission</b></br>
       Section for admission notifications through special quotas.
     </td>

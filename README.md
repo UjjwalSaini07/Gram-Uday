@@ -214,12 +214,12 @@ flutter run
   </tr>
   <tr>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/b44688fd-d477-476e-b326-135c53fb5529" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/668568cc-7718-44df-9759-13561a948e05" width="120"/><br>
       <b>Farmers Main Page</b><br>
       Farmers section with 4 categories and daily AI advice.
     </td>
     <td align="center" width="25%">
-      <img src="https://github.com/user-attachments/assets/5b7b5173-8353-4a96-9830-4f94b6d95cb8" width="120"/><br>
+      <img src="https://github.com/user-attachments/assets/9d3ed0d7-f905-4519-ad1b-c730b405b761" width="120"/><br>
       <b>Buyer Marketplace</b><br>
       Marketplace section tailored for buyers.
     </td>
@@ -360,7 +360,7 @@ flutter run
 11. **Collaborative Partnerships**: Engaging local governments, NGOs, and businesses to amplify community impact and sustainability.
 
 # Gram-Uday App Architecture
-![GramUday-Architecture](https://github.com/user-attachments/assets/60b74536-cd78-4b2b-89a8-3d7136187b1f)
+![GramUday-Architecture](https://github.com/user-attachments/assets/a3daaf9d-68fd-4d54-89a8-9ce48d2e02d1)
 
 # Gram-Uday Use-Case Diagram
 ![GramUday-UseCaseDiagram](https://github.com/user-attachments/assets/585e66bc-85a0-4811-bf2c-738cd0651ed2)

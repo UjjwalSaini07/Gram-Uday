@@ -133,7 +133,7 @@ Join us in our mission to uplift rural communities, empowering them as vital pil
 Follow these steps to set up the project:
 1. Clone the repository:
 ```bash
-https://github.com/alpharsh/gram_uday.git
+https://github.com/UjjwalSaini07/Gram-Uday.git
 ```
 2. Navigate to the project directory:
 ```bash

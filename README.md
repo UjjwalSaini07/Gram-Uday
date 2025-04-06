@@ -18,7 +18,7 @@ A **Google Solution Challenge Project'25** Organised By Google Developer Student
 
 Short but detailed introduction to GramUday. Click on the image to play and watch the video.
 
-[![Intro To GramUday](https://github.com/user-attachments/assets/5c3f0c94-6ddd-4ef5-a5ad-208bb6f1cbfb)](https://github.com/alpharsh/gram_uday/)
+[![Video Thumbnail](https://github.com/user-attachments/assets/2fcac898-4258-4750-a55a-aa6cd84d43f9)](https://youtu.be/WQBAhbWqQ3w)
 
 ## Our Target UN's Sustainable Development Goals 🎯
 
@@ -58,6 +58,7 @@ GramUday is an Android app that break the poverty cycle of the rural communities
   </table>
 </div>
 
+<!--
 ## Latest Version - v1.0.0 (Temporarily Inactive)
 <table>
   <tr>
@@ -74,15 +75,17 @@ GramUday is an Android app that break the poverty cycle of the rural communities
 </table>
 
 Join us in our mission to uplift rural communities, empowering them as vital pillars of our nation. Together, let’s enhance their quality of life and create a positive, lasting impact on the world!
+-->
 
-## 🚀 Getting Started
+> ## 🚀 Getting Started
 
 > [!IMPORTANT]  
 > Our application requires Internet connection and Location permission to run properly, In near future We Focuses on Offline App also.
 
-1. **Download & Install** : [Get It From Play Store](https://github.com/alpharsh/gram_uday)
-2. Run the downloaded file on your adnroid phone!
-3. **Test Credentials** :<br/>
+> Temporary Inactive:
+> 1. **Download & Install** : [Get It From Play Store](https://github.com/alpharsh/gram_uday)
+> 2. Run the downloaded file on your adnroid phone!
+> 3. **Test Credentials** :<br/>
    Email: *GramUdayUsertest@gmail.com*<br/>
    Password: *GramUday@123* 	
 
